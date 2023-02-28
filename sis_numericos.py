@@ -1,0 +1,11 @@
+"""print(0o123)
+print(0o5373)
+print("\"I'm\"\n\"\"learning\"\"\n\"\"\"Python\"\"\"")
+print("Estoy aprediendo python")
+print("Estoy\n", '""Aprendiendo""\n', "\"\"\"Python""\"""\"\"")
+print(6.//-4)"""
+print(8 % 3)
+print(12%4.5)
+print(+2)
+print(-3**2)
+print(2**2**3)
